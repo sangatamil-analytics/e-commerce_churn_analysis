@@ -15,7 +15,7 @@ The goal is to identify key factors driving customer churn and provide actionabl
 
 •Support data-driven decision making for retention strategies
 
-Dataset Information
+🗂Dataset Information
 
 ‣Source: E-commerce customer dataset (CSV)
 
@@ -23,7 +23,7 @@ Dataset Information
 
 ‣Target Variable: Churned (0 = Retained, 1 = Churned)
 
-Data Cleaning & Preprocessing
+🧹Data Cleaning & Preprocessing
 
 ●Handled missing values using:
 
